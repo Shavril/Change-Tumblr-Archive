@@ -8,7 +8,7 @@ to do not miss reblogs you have not seen yet?
 My solution replaces posts you already liked 
 with heart symbol, so you can find new posts quicker!
 
-![Example of the original and output page](https://imgur.com/a/Vmgj5Ye)
+<img src="./example.jpg">
 
 ***
 
