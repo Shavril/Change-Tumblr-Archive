@@ -12,6 +12,8 @@ with heart symbol, so you can find new posts quicker!
 
 ***
 
+<b>Description</b>
+
 This script for Python 3 has two parts:                     
                                                                 
 [s] Scrapes image links from given tumblr blog's archive until you stop it with Esc or it reaches end of month after scraping 
@@ -34,6 +36,7 @@ if you are running the script first time:
 you need to install required python packages.
 If you do not know which packages you need, just try to run the script through command line, and it will tell you what you are missing.
 
+***
 
 <b>Common problems</b>
 
